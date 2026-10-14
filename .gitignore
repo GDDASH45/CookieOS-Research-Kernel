@@ -1,0 +1,32 @@
+# Build output
+/build/
+
+# Compiled object files
+*.o
+*.a
+*.so
+*.so.*
+*.elf
+*.efi
+*.bin
+*.img
+*.iso
+
+# Debug and symbol files
+*.sym
+*.map
+*.dSYM/
+
+# Compiler-generated dependency files
+*.d
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary files
+*.tmp
+*.bak
